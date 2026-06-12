@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+If you are looking for my portfolio, you can find it here: https://github.com/guidovezzoni/portfolio 
+
 <!--
 **guidovezzoni/guidovezzoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

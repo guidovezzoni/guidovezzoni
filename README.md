@@ -17,8 +17,8 @@
 * cross-platform app (React Native) that reads the gas/water meters and calculate stats - [Work In Progress]
 
 ### Android
-* https://github.com/guidovezzoni/venice [Work in Progress] A road trip planning app for Android, built with a modern architecture stack (MVI, Flow, Hilt, Room) and developed through SDD methodology, using the standard OpenSpec and the SDLC customisations
-
+* https://github.com/guidovezzoni/venice [Work in Progress] A road trip planning app for Android, built with a modern architecture stack (MVI, Flow, Hilt, Room) and developed through SDD methodology, using the standard OpenSpec and the [SDLC](https://github.com/guidovezzoni/SDLC) agentic AI process.
+* older Android projects available [here](https://github.com/guidovezzoni/portfolio)
 
 If you are looking for my full portfolio, you can find it here: https://github.com/guidovezzoni/portfolio 
 
